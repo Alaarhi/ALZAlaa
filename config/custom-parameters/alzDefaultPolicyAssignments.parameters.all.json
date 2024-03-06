@@ -39,7 +39,7 @@
       "value": "/subscriptions/a429e53d-21f1-4c6d-8306-6c8bd944744b/resourcegroups/rg-alz-logging/providers/microsoft.operationalinsights/workspaces/alz-log-analytics"
     },
     "parLogAnalyticsWorkspaceLogRetentionInDays": {
-      "value": "365"
+      "value": "30"
     },
     "parAutomationAccountName": {
       "value": "alz-automation-account"
