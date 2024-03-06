@@ -49,7 +49,7 @@
       "value": "Standard"
     },
     "parPublicIpPrefix": {
-      "value": "-PublicIP"
+      "value": "alaa-PublicIP"
     },
     "parPublicIpSuffix": {
       "value": ""
